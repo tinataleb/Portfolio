@@ -13,7 +13,7 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 
 ## PROJECTS
 
-##### MatchEZ
+### MatchEZ
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/MatchEZ/Tina_Taleb_MatchEZ_SLIDES.pdf)
 
 [Poster](https://github.com/tinataleb/Portfolio/blob/master/MatchEZ/Tina_Taleb_MatchEZ_POSTER.pdf)
