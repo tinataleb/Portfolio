@@ -15,7 +15,9 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 
 ##### MatchEZ
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/MatchEZ/Tina_Taleb_MatchEZ_SLIDES.pdf)
+
 [Poster](https://github.com/tinataleb/Portfolio/blob/master/MatchEZ/Tina_Taleb_MatchEZ_POSTER.pdf)
+
 [Video](https://www.youtube.com/watch?v=bSh9xLlnt78&list=PLbok9t2URfW0scBCNElaHVW_v0cS2AaGL&index=32)
 
 ##### ECOEGGcellence
@@ -23,13 +25,17 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 
 ##### CS370: Web App for Tutoring Services
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/Tina_Taleb_CS370_SLIDES.pdf)
+
 [Video](https://www.youtube.com/watch?v=0lJGAX65tao)
+
 [Presentation Video]()
 
 
 ##### VapeCoach
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/VapeCoach/Tina_Taleb_VapeCoach_SLIDES.pdf)
+
 [Video](https://www.youtube.com/watch?v=kheRFw0y0mU)
+
 [Presentation Video](https://www.youtube.com/watch?v=kheRFw0y0mU)
 
 
@@ -38,7 +44,9 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 
 ##### Story Network
 [Video](https://www.youtube.com/watch?v=oXbghTwdVco)
+
 [Slides]()
+
 [One-Pager]()
 
 ##### Represent
