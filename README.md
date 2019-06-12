@@ -48,7 +48,7 @@
 
 [Video](https://www.youtube.com/watch?v=kheRFw0y0mU)
 
-[Presentation Video](https://www.youtube.com/watch?v=kheRFw0y0mU)
+[Presentation Video](https://www.youtube.com/watch?v=jkfWdL2rQ5o)
 
 
 ### TiNick
