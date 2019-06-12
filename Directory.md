@@ -2,7 +2,10 @@
 
 | Project  | Team Size | Role | Tool(s)/Language(s) |
 | ------------- | ------------- | ------------- | ------------- |
-| Augmenting Practices: Sonification  | 3 | -Arduino -Max/MSP -Custome PCB Milling |
+| Augmenting Practices: Sonification  | 3 | -Arduino 
+
+-Max/MSP 
+-Custome PCB Milling |
 | MatchEZ  | 4 | -Team Manager -User Studies -Poster | -Java -Python -Rapid Prototyping -Figma -Data Analysis |
 
 
