@@ -2,13 +2,14 @@
 
 | Project  | Team Size | Role | Tool(s)/Language(s) |
 | ------------- | ------------- | ------------- | ------------- |
-| Augmenting Practices: Sonification  | 3 | -Arduino -Max/MSP -Custome PCB Milling |
+| Augmenting Practices: Sonification  | 3 | Undergraduate Researcher | -Arduino -Max/MSP -Custome PCB Milling |
 | MatchEZ  | 4 | -Team Manager -User Studies -Poster | -Java -Python -Rapid Prototyping -Figma -Data Analysis |
-
-
-
-
-
+| ECOEGGcellence  | 1 | Product Designer | -Rapid Prototyping -Graphic Design -Laser cutter -3D Printer |
+| CS370: Web App for Tutoring Services | 6 | -Developer -UI Designer | -Ruby on Rails -JavaScript |
+| VapeCoach  | 3 | -Team Manager -Product Designer | -Rapid Prototyping -Graphic Design -Figma -Adobe Primier |
+| TiNick  | 2 | Developer | -Java -UI & UX Designer |
+| Story Network  | 1 | Product Designer | -Rapid Prototyping -Graphic Design |
+| Represent | 1 | Developer | -Java -Android -Figma -Graphic Design |
 
 
 
