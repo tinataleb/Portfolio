@@ -5,7 +5,9 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 
 ##### Augmenting Practices: Sonification
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/Research/Tina_Taleb_AugmentedPractices_SLIDES.pdf)
+
 [Poster](https://github.com/tinataleb/Portfolio/blob/master/Research/Tina_Taleb_AugmentedPractices_POSTER.pdf)
+
 [Presentation Video](https://www.youtube.com/watch?v=rOJZbfa-NO0)
 
 
