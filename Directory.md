@@ -1,4 +1,18 @@
 # Portfolio
+
+| Project  | Team Size | Role | Tool(s)/Language(s) |
+| ------------- | ------------- | ------------- | ------------- |
+| Augmenting Practices: Sonification  | 3 | -Arduino -Max/MSP -Custome PCB Milling |
+| MatchEZ  | 4 | -Team Manager -User Studies -Poster | -Java -Python -Rapid Prototyping -Figma -Data Analysis |
+
+
+
+
+
+
+
+
+
 ## RESEARCH
 ### Augmenting Practices: Sonification
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/Research/Tina_Taleb_AugmentedPractices_SLIDES.pdf)
