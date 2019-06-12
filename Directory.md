@@ -20,10 +20,10 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 
 [Video](https://www.youtube.com/watch?v=bSh9xLlnt78&list=PLbok9t2URfW0scBCNElaHVW_v0cS2AaGL&index=32)
 
-##### ECOEGGcellence
+### ECOEGGcellence
 [Portfolio](https://github.com/tinataleb/Portfolio/blob/master/Tina_Taleb_ECOEGGcellence.pdf)
 
-##### CS370: Web App for Tutoring Services
+### CS370: Web App for Tutoring Services
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/Tina_Taleb_CS370_SLIDES.pdf)
 
 [Video](https://www.youtube.com/watch?v=0lJGAX65tao)
@@ -31,7 +31,7 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 [Presentation Video]()
 
 
-##### VapeCoach
+### VapeCoach
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/VapeCoach/Tina_Taleb_VapeCoach_SLIDES.pdf)
 
 [Video](https://www.youtube.com/watch?v=kheRFw0y0mU)
@@ -39,17 +39,17 @@ A collection of my projects (includes Slides, Videos, and Documentation)
 [Presentation Video](https://www.youtube.com/watch?v=kheRFw0y0mU)
 
 
-##### TiNick
+### TiNick
 [Video](https://www.youtube.com/watch?v=Ovc0pRsrq_w)
 
-##### Story Network
+### Story Network
 [Video](https://www.youtube.com/watch?v=oXbghTwdVco)
 
 [Slides]()
 
 [One-Pager]()
 
-##### Represent
+### Represent
 [Video](https://www.youtube.com/watch?v=18u4e_CLlTA)
 
 
