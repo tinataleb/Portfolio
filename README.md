@@ -57,9 +57,9 @@
 ### Story Network
 [Video](https://www.youtube.com/watch?v=oXbghTwdVco)
 
-[Slides]()
+[Slides](https://github.com/tinataleb/Portfolio/blob/master/StoryNetwork/sndecs.pdf)
 
-[One-Pager]()
+[One-Pager](https://github.com/tinataleb/Portfolio/blob/master/StoryNetwork/storyNetwork.png)
 
 ### Represent
 [Video](https://www.youtube.com/watch?v=18u4e_CLlTA)
