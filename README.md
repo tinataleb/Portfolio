@@ -33,10 +33,10 @@
 [Video](https://www.youtube.com/watch?v=bSh9xLlnt78&list=PLbok9t2URfW0scBCNElaHVW_v0cS2AaGL&index=32)
 
 ### ECOEGGcellence
-[Portfolio](https://github.com/tinataleb/Portfolio/blob/master/Tina_Taleb_ECOEGGcellence.pdf)
+[Portfolio](https://github.com/tinataleb/Portfolio/blob/master/ECOEGGcellence/Tina_Taleb_ECOEGGcellence.pdf)
 
 ### CS370: Web App for Tutoring Services
-[Slides](https://github.com/tinataleb/Portfolio/blob/master/Tina_Taleb_CS370_SLIDES.pdf)
+[Slides](https://github.com/tinataleb/Portfolio/blob/master/cs370/Tina_Taleb_CS370_SLIDES.pdf)
 
 [Video](https://www.youtube.com/watch?v=0lJGAX65tao)
 
