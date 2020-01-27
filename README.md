@@ -36,6 +36,28 @@ Focus helps users practice mindfulness by providing a breathing rhythm through h
 [Slides](https://docs.google.com/presentation/d/1oBeEZJynCQRKyN9hkcgKsfeZKYs9dd2rrgqnLIk5Heg/edit?usp=sharing)
 
 [Video](https://youtu.be/QeaCL2IeJSk)
+
+[Documentation]()
+
+### Attis
+Attis is an IOT device that enables collaboration between users and uses Google cloud vision API to detect ingredient and generates recipes based on them. Attis uses Google’s text-to-speech APIs to guide the user throughout the cooking experience by explaining the steps and using the integrated timer. 
+
+[Slides]()
+
+[Video](https://youtu.be/MFoVfQVAFM0)
+
+### An Enquiry Regarding Robot Understanding
+Husky challenges user to think about how robots understand the surroundings by 
+guideing them through husky’s congnition step: sensing, interacting, interpreting, and expressing. It engages users in an interactive, provocative, and open-ended inquiry concerning the robot’s intelligence. Husky, originally a lawn mower, uses ROS to navigate and transfer, openCV, Google APIs, and neuro network to sense and interpret its sorroundings, and it interacts with others in person through facial expression and its one of a kind language while posting on robot social media to stay conneccted to its robot friends. It uses two raspbery pi’s, a camera, speaker, and a screen.
+
+[Slides]()
+
+[Video]()
+
+[Documentation]()
+### StrandBeest
+[Video](https://youtu.be/OLpKO5fEcsg)
+
 ### Sound Machine
 [Video](https://youtu.be/Ok6R31iVPj0)
 
