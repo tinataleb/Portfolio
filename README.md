@@ -2,14 +2,20 @@
 
 | Project  | Team Size | Role | Tool(s)/Language(s) |
 | ------------- | ------------- | ------------- | ------------- |
-| Augmenting Practices: Sonification  | 3 | Undergraduate Researcher | -Arduino -Max/MSP -Custome PCB Milling |
-| MatchEZ  | 4 | -Team Manager -User Studies -Poster | -Java -Python -Rapid Prototyping -Figma -Data Analysis |
-| ECOEGGcellence  | 1 | Product Designer | -Rapid Prototyping -Graphic Design -Laser cutter -3D Printer |
-| CS370: Web App for Tutoring Services | 6 | -Developer -UI Designer | -Ruby on Rails -JavaScript |
-| VapeCoach  | 3 | -Team Manager -Product Designer | -Rapid Prototyping -Graphic Design -Figma -Adobe Primier |
-| TiNick  | 2 | Developer | -Java -UI & UX Designer |
-| Story Network  | 1 | Product Designer | -Rapid Prototyping -Graphic Design |
-| Represent | 1 | Developer | -Java -Android -Figma -Graphic Design |
+| StrandBeest | 1 | Designer, Developer, Fabricator | Arduino, Laser cutter |
+| Sound Machine | 2 | Designer, Developer, Fabricator | Arduino |
+| FOCUS | 4 | Designer, Developer | Unity, VR |
+| Attis | 4 | Designer, Developer | Google APIs, Raspberry Pi |
+| An Enquiry Regarding Robot Understanding | 4 | Designer, Fabricator | Google APIs, Raspberry Pi |
+| SoulFlower | 4 | Designer, Developer, Fabricator | Google APIs, Raspberry Pi |
+| Augmenting Practices: Sonification  | 3 | Undergraduate Researcher | Arduino, Max/MSP, Custome PCB Milling |
+| MatchEZ  | 4 | Team Manager, User Studies, Designer | Java, Python, Rapid Prototyping, Figma, Data Analysis |
+| ECOEGGcellence  | 1 | Product Designer | Rapid Prototyping, Graphic Design, Laser cutter, 3D Printer |
+| CS370: Web App for Tutoring Services | 6 | Developer, UI Designer | Ruby, JavaScript |
+| VapeCoach  | 3 | Team Manager, Product Designer | Rapid Prototyping, Graphic Design, Figma, Adobe Primier |
+| TiNick  | 2 | Developer | Java, UI & UX Designer |
+| Story Network  | 1 | Product Designer | Rapid Prototyping, Graphic Design |
+| Represent | 1 | Developer | Java, Android, Figma, Graphic Design |
 
 
 
@@ -24,8 +30,18 @@
 
 
 ## PROJECTS
+### FOCUS
+Focus helps users practice mindfulness by providing a breathing rhythm through haptic cues while engaging their cognitive foreground with the simple task of sorting balls by color. FOCUS examines the power of VR to improve introspect and to eliminate effects of external sensory stimuli. FOCUS is suited to elevate concentration traits of people who are distracted by an overload of information in the modern world.
+
+[Slides](https://docs.google.com/presentation/d/1oBeEZJynCQRKyN9hkcgKsfeZKYs9dd2rrgqnLIk5Heg/edit?usp=sharing)
+
+[Video](https://youtu.be/QeaCL2IeJSk)
+### Sound Machine
+[Video](https://youtu.be/Ok6R31iVPj0)
 
 ### MatchEZ
+Commonly used dating apps fail to accommodate for users with visual impairment due to their vision-centric design. MatchEZ is an android app that pairs with most popular dating apps such as bumble to provide an enabling interface for such users by integrating voice messaging, proper color schemes, and generating and reading descriptive text from images by using google cloud APIs. 
+
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/MatchEZ/Tina_Taleb_MatchEZ_SLIDES.pdf)
 
 [Poster](https://github.com/tinataleb/Portfolio/blob/master/MatchEZ/Tina_Taleb_MatchEZ_POSTER.pdf)
@@ -36,6 +52,8 @@
 [Portfolio](https://github.com/tinataleb/Portfolio/blob/master/ECOEGGcellence/Tina_Taleb_ECOEGGcellence.pdf)
 
 ### CS370: Web App for Tutoring Services
+Designed and developed a web application for UC Berkeley's CS370 class using Ruby on Rails. I worked in a team of 6 developers and our process included meetings with the client, use of software development practices and tools, and testing and maintaining the website. My role involved generating mock ups, designing UI, and development.
+
 [Slides](https://github.com/tinataleb/Portfolio/blob/master/cs370/Tina_Taleb_CS370_SLIDES.pdf)
 
 [Video](https://www.youtube.com/watch?v=0lJGAX65tao)
